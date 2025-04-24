@@ -1,1 +1,11 @@
-﻿
+﻿  Assassin.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Rocket.cpp
+  Test.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 342 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PA9.vcxproj -> C:\Users\paramveer\Desktop\CPTS122\PA\CPTS122_PA9\x64\Release\PA9.exe
