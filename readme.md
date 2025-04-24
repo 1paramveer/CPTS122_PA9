@@ -63,5 +63,5 @@ Have fun, and may the best assassin win!
 ## Team Sections and TA Information
 * Vedant Naidu - Section 3, Kyle Parker 11830467
 * Madison Suxus Dennis - Section 12, Dylan S. 11905887
-* Paramveer Singh - Section 12, Dylan S. 011912039
+* Paramveer Singh - Section 12, Dylan S. 011912038
 * Rajendriya Das - Section 5, Jaehong Lee 11839681
